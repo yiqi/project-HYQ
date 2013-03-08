@@ -6,7 +6,7 @@ total=0
 l=0
 
 #Sum input values 
-for line in sys.stdin:
+for line in ('data.txt'):
         total = total+ float(line.strip())
         l = l +1
 
