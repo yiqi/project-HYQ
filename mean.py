@@ -13,4 +13,4 @@ for line in sys.stdin:
 average=total/l
 
 print 'The Average of the Array is',average
-
+# You have a good boyfriend! 
