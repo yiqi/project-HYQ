@@ -4,9 +4,9 @@ import sys
 
 total=0
 l=0
-
+filename='data.txt'
 #Sum input values 
-for line in ('data.txt'):
+for line in filename:
         total = total+ float(line.strip())
         l = l +1
 
