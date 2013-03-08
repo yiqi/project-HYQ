@@ -6,7 +6,7 @@ total=0
 l=0
 
 #Sum input values 
-for line in ('data.txt'):
+for line in ('data_2.txt'):
         total = total+ float(line.strip())
         l = l +1
 
