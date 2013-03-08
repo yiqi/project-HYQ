@@ -4,6 +4,8 @@ import sys
 
 total=0
 l=0
+
+#Sum input values 
 for line in sys.stdin:
         total = total+ float(line.strip())
         l = l +1
